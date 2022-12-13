@@ -21,7 +21,8 @@
 
 ### Links
 
-- Solution URL: [Code](https://github.com/marvedventures/react-porfolio)
+- GitHub URL: [Code](https://github.com/marvedventures/react-porfolio)
+- Live : [Demo](react-porfolio-nhwwpppvq-marvedcodes.vercel.app)
 
 ## My process
 
