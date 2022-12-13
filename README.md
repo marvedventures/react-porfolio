@@ -14,10 +14,10 @@
 ## Overview
 
 ### Screenshot
-<img width="1092" alt="image3" src="https://user-images.githubusercontent.com/108392678/207284241-bf1f23e8-db5d-4f7f-9779-cc9a012df8b8.png">
+<img width="674" alt="image3" src="https://user-images.githubusercontent.com/108392678/207284241-bf1f23e8-db5d-4f7f-9779-cc9a012df8b8.png">
 <img width="674" alt="image6" src="https://user-images.githubusercontent.com/108392678/207284120-a6c2386c-4053-4dc0-9558-802659e05dcf.png">
-<img width="616" alt="image5" src="https://user-images.githubusercontent.com/108392678/207284152-65736e83-1a5d-40f1-8cb8-0e7c59fb1f7a.png">
-<img width="664" alt="image7" src="https://user-images.githubusercontent.com/108392678/207284102-dee97995-5b11-43c4-a34a-cea55c1a2669.png">
+<img width="674" alt="image5" src="https://user-images.githubusercontent.com/108392678/207284152-65736e83-1a5d-40f1-8cb8-0e7c59fb1f7a.png">
+<img width="674" alt="image7" src="https://user-images.githubusercontent.com/108392678/207284102-dee97995-5b11-43c4-a34a-cea55c1a2669.png">
 
 ### Links
 
