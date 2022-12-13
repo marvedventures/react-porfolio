@@ -22,7 +22,7 @@
 ### Links
 
 - GitHub URL: [Code](https://github.com/marvedventures/react-porfolio)
-- Live : [Demo](react-porfolio-nhwwpppvq-marvedcodes.vercel.app)
+- Live : [Demo](https://react-porfolio-psi.vercel.app/)
 
 ## My process
 
