@@ -21,7 +21,7 @@
 
 ### Links
 
-- GitHub URL: [Code](https://github.com/marvedventures/react-porfolio)
+- GitHub URL: [Code](https://github.com/marvedventures/react-portfolio)
 - Live : [Demo](https://react-porfolio-psi.vercel.app/)
 
 ## My process
