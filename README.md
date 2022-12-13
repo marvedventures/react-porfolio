@@ -87,7 +87,7 @@ const formik = useFormik({
 
 - [React Docs (Rendering Lists) ](https://reactnative.dev/docs/stylesheet) - This helped me for rendering lists in the navbar. I really liked their documentation and will use it going forward.  
 - [Formik & Yup (SectionList) ](https://formik.org/docs/tutorial#schema-validation-with-yup) - This helped me for formik schema validation with yup. 
-- [Chakra UI (FormControl)] (https://chakra-ui.com/docs/components/form-control/usage) - This helped me for handling form errors.
+- [Chakra UI (FormControl)](https://chakra-ui.com/docs/components/form-control/usage) - This helped me for handling form errors.
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
