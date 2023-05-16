@@ -21,7 +21,7 @@
 
 ### Links
 
-- GitHub URL: [Code](https://github.com/marvedventures/react-portfolio)
+- GitHub URL: [Code](https://github.com/marventures/react-portfolio)
 - Live : [Demo](https://react-portfolio-pete-psi.vercel.app/)
 
 ## My process
@@ -91,5 +91,5 @@ const formik = useFormik({
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures11)
